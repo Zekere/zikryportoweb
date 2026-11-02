@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "HELLO, I'M",
+    "role": "FULL STACK DEVELOPER",
+    "description": "I build functional, responsive, and user-friendly websites and applications.",
+    "projects": "View Projects",
+    "contact": "Contact Me",
+    "available": "OPEN TO WORK OPPORTUNITIES",
+    "scroll": "SCROLL TO EXPLORE"
+  },
+  "about": {
+    "eyebrow": "01 / ABOUT ME",
+    "title": "Learning, Growing, and Building Digital Solutions.",
+    "body1": "I'm a Full Stack Developer focused on web application development, from interface design to system and database management.",
+    "body2": "Beyond web development, I'm exploring mobile development, UI/UX, and graphic design with Affinity as part of my creative journey.",
+    "focustitle": "Main focus",
+    "focus": "Web development"
+  },
+  "skills": {
+    "eyebrow": "02 / SKILLS & TECH STACK",
+    "title": "Technologies I Use.",
+    "description": "Technologies I have used in projects and those I am currently learning.",
+    "used": "Used",
+    "learning": "Learning",
+    "frontend": "Frontend",
+    "backend": "Backend & DB",
+    "mobile": "Mobile",
+    "tools": "Design & Tools"
+  },
+  "portfolio": {
+    "eyebrow": "03 / PORTFOLIO",
+    "title": "Selected Work & Projects.",
+    "description": "Web projects, mobile apps, and graphic design explorations in one place.",
+    "all": "All",
+    "web": "Web",
+    "mobile": "Mobile",
+    "graphic": "Graphic Design",
+    "github": "View on GitHub",
+    "view": "View Artwork",
+    "placeholder": "Project image coming soon"
+  },
+  "contact": {
+    "eyebrow": "04 / CONTACT",
+    "title": "Let's Connect & Collaborate.",
+    "description": "Have an idea, job opportunity, or a project to discuss? I'd love to connect.",
+    "button": "Send Email",
+    "social": "Find me on",
+    "back": "Back to top"
+  },
+  "footer": {
+    "crafted": "Built with Next.js and curiosity."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "portfolio": "Portofolio",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "greeting": "HALO, SAYA",
+    "role": "FULL STACK DEVELOPER",
+    "description": "Saya mengembangkan website dan aplikasi yang fungsional, responsif, dan mudah digunakan.",
+    "projects": "Lihat Proyek",
+    "contact": "Hubungi Saya",
+    "available": "TERBUKA UNTUK PELUANG KERJA",
+    "scroll": "SCROLL UNTUK MENJELAJAH"
+  },
+  "about": {
+    "eyebrow": "01 / TENTANG SAYA",
+    "title": "Belajar, Berkembang, dan Membangun Solusi Digital.",
+    "body1": "Saya adalah seorang Full Stack Developer yang berfokus pada pengembangan aplikasi web, mulai dari perancangan antarmuka hingga pengelolaan sistem dan database.",
+    "body2": "Selain web development, saya juga mempelajari mobile development, UI/UX, dan desain grafis menggunakan Affinity sebagai bagian dari perjalanan kreatif saya.",
+    "focustitle": "Fokus utama",
+    "focus": "Pengembangan web"
+  },
+  "skills": {
+    "eyebrow": "02 / KEAHLIAN & TEKNOLOGI",
+    "title": "Teknologi yang Saya Gunakan.",
+    "description": "Teknologi yang pernah saya gunakan dalam proyek dan yang sedang saya pelajari.",
+    "used": "Digunakan",
+    "learning": "Sedang Dipelajari",
+    "frontend": "Frontend",
+    "backend": "Backend & DB",
+    "mobile": "Mobile",
+    "tools": "Desain & Tools"
+  },
+  "portfolio": {
+    "eyebrow": "03 / PORTOFOLIO",
+    "title": "Karya & Proyek Pilihan.",
+    "description": "Proyek web, aplikasi mobile, dan eksplorasi desain grafis dalam satu tempat.",
+    "all": "Semua",
+    "web": "Web",
+    "mobile": "Mobile",
+    "graphic": "Desain Grafis",
+    "github": "Lihat di GitHub",
+    "view": "Lihat Karya",
+    "placeholder": "Gambar proyek segera hadir"
+  },
+  "contact": {
+    "eyebrow": "04 / KONTAK",
+    "title": "Mari Terhubung & Berkolaborasi.",
+    "description": "Punya ide, peluang kerja, atau ingin berdiskusi tentang proyek? Saya terbuka untuk terhubung dan berkolaborasi.",
+    "button": "Kirim Email",
+    "social": "Temukan saya di",
+    "back": "Kembali ke atas"
+  },
+  "footer": {
+    "crafted": "Dibuat dengan Next.js dan penuh rasa ingin tahu."
+  }
+}
